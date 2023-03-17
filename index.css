@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+ 
+}
+
+#contenedor.principal{
+    background-image: url(https://th.bing.com/th/id/R.f0e5c65a37c759120f1edfd8e0560411?rik=JothNjchG1uqYw&riu=http%3a%2f%2feskipaper.com%2fimages%2fpurple-backgrounds-7.jpg&ehk=NXECqM0KxfaC54gtv0ZqdiuV8wT6yPWtxmGcplpG2oM%3d&risl=&pid=ImgRaw&r=0);
+    width: 700px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
